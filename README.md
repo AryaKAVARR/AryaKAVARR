@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya Kavar</h1>
-<h3 align="center">A passionate WEB developer, Data analyst and project manager from Canada</h3>
+<h3 align="center">A passionate Programmer, WEB developer, Data analyst and project manager from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryakavarr&label=Profile%20views&color=0e75b6&style=flat" alt="aryakavarr" /> </p>
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arya kavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arya kavar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arya-kavar-946095262/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arya kavar" height="30" width="40" /></a>
 <a href="https://fb.com/arya kavar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arya kavar" height="30" width="40" /></a>
-<a href="https://instagram.com/arya._26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arya._26" height="30" width="40" /></a>
+<a href="https://www.instagram.com/arrya._26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arya._26" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
