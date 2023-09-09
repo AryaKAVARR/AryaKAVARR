@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ODIN PROJECT**
 
-- 🌱 I’m currently learning **Node JS, React Js,JAVASCRIPT, HTML, CSS, C++, Python, MY SQL, MONGO**
+- 🌱 I’m currently learning **ASP.NET, JAVA, C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AryaKAVARR](https://github.com/AryaKAVARR)
 
