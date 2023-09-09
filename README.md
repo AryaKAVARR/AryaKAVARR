@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **arya.kavar7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FbBWBJUAxKQxqDFNvJu-KFDuiLUZRYuP/view?usp=drive_link](https://drive.google.com/file/d/1FbBWBJUAxKQxqDFNvJu-KFDuiLUZRYuP/view?usp=drive_link)
-
 - ⚡ Fun fact **Did you know that the first website ever created is still online and functional? It was built by Sir Tim Berners-Lee, the inventor of the World Wide Web, and went live on August 6, 1991. The website explained the World Wide Web project and provided information on how to create web pages. You can still visit it today at http://info.cern.ch/hypertext/WWW/TheProject.html to see how far web development has come since then!**
 
 <h3 align="left">Connect with me:</h3>
